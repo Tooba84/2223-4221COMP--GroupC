@@ -1,0 +1,6 @@
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ ), Check-in Date
+Customer,M,Abdullah,8230396749959,Pak,03025556979,mabdullahsaleh@gmail.com,Suit,2,5,200,2024/04/19 08:38:44
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ ), Check-in Date
+Customer,M,Abdullah,8230396749959,Pak,03025556979,mabdullahsaleh@gmail.com,Suit,2,5,200,2024/04/19 09:38:37
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ ), Check-Out Date
+Customer,M,Abdullah,8230396749959,Pak,03025556979,mabdullahsaleh@gmail.com,Suit,2,5,200,2024/04/19 09:38:50

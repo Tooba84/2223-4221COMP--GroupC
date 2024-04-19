@@ -1,0 +1,10 @@
+
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ )
+Customer,Abdullah,Saleh,8230396749959,Pakistan,03025556979,m.abdullahsaleh@gmail.com,Deluxe,3,2,100,
+Customer,abdullah,saleh,1234567890987,pakistan,03025556979,mabdullahsaleh@outlook.com,luxury,1,2,3,
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ )
+Customer,Abdullah,Saleh,8230396749959,Pakistan,03025556979,m.abdullahsaleh@gmail.com,Deluxe,3,2,100,
+Customer,dsfa,sdfsd,1234567890987,pakistan,03025556979,dfsfdsa@gmail.com,luxury,1,2,300,
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Mail, Room Type, Room No, Night Stay, Room Price ( £ )
+Customer,Abdullah,Saleh,8230396749959,Pakistan,03025556979,m.abdullahsaleh@gmail.com,Deluxe,3,2,100,
+Customer,dfdsa,dsfdas,1234567890987,pakistan,03025556979,abdulah@11.com,luxury,1,4,300,
